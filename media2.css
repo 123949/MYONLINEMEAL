@@ -150,8 +150,8 @@
     .parallax{
 		height:200px;
 			/*border-radius:5px;*/
-	position: absolute;
-	left: 0px;
+	/*position: absolute;
+	left: 0px;*/
 	width: 100%;
 	background: url(img/parallax.jpg) no-repeat center;
 	background-size: cover;
@@ -997,8 +997,8 @@
     .parallax{
 		height:200px;
 	/*border-radius:5px;*/
-	position: absolute;
-	left: 0px;
+	/*position: absolute;
+	left: 0px;*/
 	width: 100%;
 	background: url(img/parallax.jpg) no-repeat center;
 	background-size: cover;
